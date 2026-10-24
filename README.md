@@ -16,7 +16,6 @@ AI-powered solutions, and automation systems.
 - 📍 Based in Islamabad, Pakistan
 - 💻 Interested in Full Stack Web Development
 - 🤖 Exploring AI & Automation
-- 🎬 Experienced in Video Editing
 - 🚀 Building real-world software projects
 
 ### 🛠️ Tech Stack
@@ -31,7 +30,7 @@ AI-powered solutions, and automation systems.
 
 ### 🚀 Projects & Interests
 
-- 🎥 AI Prompt-to-Video Generation (FYP)
+- 🎥 AI Prompt-to-Video Generation
 - 🏠 AI Interior Design & Space Optimization
 - 🌐 Modern Business Websites
 - 🤖 Automation Tools & Workflows
