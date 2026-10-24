@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**rajasaifdev/rajasaifdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Raja Saif ur Rehman</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Software Developer | Web Developer | AI Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Passionate about building modern web applications,
+AI-powered solutions, and automation systems.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 📍 Based in Islamabad, Pakistan
+- 💻 Interested in Full Stack Web Development
+- 🤖 Exploring AI & Automation
+- 🎬 Experienced in Video Editing
+- 🚀 Building real-world software projects
+
+### 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, Next.js
+
+**Backend & Programming:** Python
+
+**Tools:** Git, GitHub, VS Code, Vercel, WordPress
+
+**Other Skills:** Video Editing, AI Automation
+
+### 🚀 Projects & Interests
+
+- 🎥 AI Prompt-to-Video Generation (FYP)
+- 🏠 AI Interior Design & Space Optimization
+- 🌐 Modern Business Websites
+- 🤖 Automation Tools & Workflows
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajasaifdev&show_icons=true&theme=tokyonight)
+
+### 🌐 Connect With Me
+
+[GitHub Profile](https://github.com/rajasaifdev)
+
+---
+
+<p align="center">
+⭐ Always Learning | Always Building
+</p>
